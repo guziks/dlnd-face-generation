@@ -1,0 +1,7 @@
+#!/bin/sh
+
+floyd run \
+    --data R5KrjnANiKVhLWAkpXhNBe \
+    --env tensorflow \
+    --gpu \
+    --mode jupyter \
